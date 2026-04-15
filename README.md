@@ -18,7 +18,7 @@ apuntes de la unidad 2 graficacion
 
 
 
-## 2.1. Transformación bidimensional
+## 2.1. transformación bidimensional
 
 La transformación bidimensional es el conjunto de técnicas que permiten cambiar la posición, el tamaño o la orientación de una figura en un plano. Se usan para mover objetos, hacerlos más grandes o más pequeños, girarlos o darles una forma inclinada. Estas operaciones son muy importantes en la graficación porque nos ayudan a representar y manipular dibujos y datos de manera visual.
 
