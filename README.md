@@ -239,6 +239,31 @@ Las curvas B-spline se usan en diseño asistido por computadora (CAD), en animac
 Imagina el trazado de una carretera que debe pasar cerca de varios pueblos. La curva no tiene que pasar exactamente por cada pueblo, pero sí debe acercarse a ellos siguiendo una trayectoria suave. Ese tipo de trazado se puede representar con una curva B-spline, que se adapta a los puntos de control sin perder continuidad.
 ![referencia de persona corriendo](./images/corriendo.png)
 ![Persona corriendo en blender](./images/corre.png)
+## 2.4. Fractales
+Los fractales son figuras geométricas que se caracterizan por tener una estructura repetitiva a diferentes escalas. Esto significa que, si observamos un fractal de cerca o de lejos, veremos patrones similares que se repiten infinitamente. A esta propiedad se le llama autosimilitud.
+
+En graficación y matemáticas, los fractales son importantes porque permiten representar formas complejas de la naturaleza que no pueden describirse fácilmente con geometría tradicional. Ejemplos comunes de fractales en la vida real son las ramas de los árboles, las hojas de helecho, las montañas, las nubes y las costas.
+
+Características principales de los fractales:
+
+Autosimilitud: los patrones se repiten a diferentes escalas.
+
+Complejidad infinita: aunque se generan con reglas simples, pueden producir estructuras muy complejas.
+
+Dimensión fractal: no tienen una dimensión entera como las figuras clásicas (línea = 1, plano = 2), sino valores intermedios que describen su nivel de detalle.
+
+Generación iterativa: se construyen aplicando una misma regla muchas veces sobre una figura inicial.
+
+Aplicaciones prácticas:
+
+En graficación por computadora, los fractales se usan para generar paisajes realistas, texturas naturales y efectos visuales complejos.
+
+En arte digital, permiten crear imágenes abstractas y atractivas.
+
+En ciencia, ayudan a modelar fenómenos naturales como el crecimiento de plantas, la formación de galaxias o la distribución de poblaciones.
+
+Ejemplo sencillo:
+El conjunto de Mandelbrot es uno de los fractales más famosos. Se genera a partir de una fórmula matemática muy simple, pero al representarlo gráficamente produce una figura infinita llena de detalles y patrones que se repiten sin fin.
 ## 2.5. Uso y creación de fuentes de texto
 En graficación, el manejo de fuentes de texto es tan importante como el trazo de líneas y figuras. El texto no solo transmite información, también forma parte del diseño visual y puede influir en la estética de una escena. Por eso, es necesario comprender cómo se utilizan las fuentes y cómo se pueden crear nuevas para adaptarse a diferentes necesidades.
 
