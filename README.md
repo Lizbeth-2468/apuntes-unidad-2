@@ -36,7 +36,7 @@ Las transformaciones bidimensionales son la base de muchas aplicaciones gráfica
 
 **Ejemplo sencillo:**
 Imagina un triángulo en el plano. Si lo trasladas, se moverá a otra posición. Si lo escalas, se hará más grande o más pequeño. Si lo rotas, cambiará su orientación. Con estas operaciones simples se pueden construir escenas más complejas y dinámicas.
-### 2.1.1. Traslación 
+### 2.1.1. Traslacion 
 
 La traslación es una transformación bidimensional que consiste en mover una figura de un lugar a otro dentro del plano. Lo importante es que la figura no cambia su forma, su tamaño ni su orientación, simplemente se desplaza a una nueva posición. Cada punto de la figura se mueve la misma cantidad en la dirección que se indique.
 
