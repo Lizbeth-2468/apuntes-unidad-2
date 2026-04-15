@@ -6,19 +6,19 @@ apuntes de la unidad 2 graficacion
 
 - [2.1. Transformación bidimensional](#21-transformacion-bidimensional)
   - [2.1.1. Traslación](#211-traslacion)
-  - [2.1.2. Escalamiento](#212-escalamiento)
-  - [2.1.3. Rotación](#213-rotacion)
+  - [2.1.2. Escalamiento](#212-Escalamiento)
+  - [2.1.3. Rotación](#213-Rotacion)
   - [2.1.4. Sesgado](#214-sesgado)
 - [2.2. Representación matricial de las transformaciones bidimensionales](#22-representacion-matricial-de-las-transformaciones-bidimensionales)
 - [2.3. Trazo de líneas curvas](#23-trazo-de-lineas-curvas)
-  - [2.3.1. Bezier](#231-bezier)
+  - [2.3.1. Bezier](#231-Bezier)
   - [2.3.2. B-spline](#232-b-spline)
 - [2.4. Fractales](#24-fractales)
 - [2.5. Uso y creación de fuentes de texto](#25-uso-y-creacion-de-fuentes-de-texto)
 
 
 
-## 2.1. Transformación Bidimensional
+## 2.1. Transformación bidimensional
 
 La transformación bidimensional es el conjunto de técnicas que permiten cambiar la posición, el tamaño o la orientación de una figura en un plano. Se usan para mover objetos, hacerlos más grandes o más pequeños, girarlos o darles una forma inclinada. Estas operaciones son muy importantes en la graficación porque nos ayudan a representar y manipular dibujos y datos de manera visual.
 
@@ -87,7 +87,7 @@ La rotación es muy útil en graficación porque permite mostrar objetos desde d
 
 **Ejemplo cotidiano:**
 Un ventilador es un buen ejemplo de rotación. Sus aspas giran alrededor de un eje central, manteniendo siempre la misma forma y tamaño, pero cambiando continuamente de orientación. Este mismo principio se aplica en graficación para dar la sensación de movimiento.
-### 2.1.4. Sesgado
+### 2.1.4. sesgado
 
 El sesgado es una transformación que se utiliza para inclinar una figura en el plano, como si la empujáramos hacia un lado sin mover toda la base. A diferencia de otras transformaciones, aquí la figura se deforma: lo que antes era un rectángulo perfectamente vertical puede convertirse en un paralelogramo inclinado. Es una manera de alterar la forma sin modificar el tamaño total.
 
@@ -96,7 +96,7 @@ Cuando se aplica en el eje horizontal, la parte superior de la figura se desplaz
 El sesgado tiene un papel importante en graficación porque permite simular efectos visuales que dan más realismo. Por ejemplo, se puede usar para representar la sombra de un objeto, para dar la sensación de que una figura está vista en perspectiva, o para crear animaciones en las que los objetos se deforman al moverse. Es una herramienta que aporta dinamismo y variedad a las escenas.
 
 Un caso cotidiano que ayuda a entenderlo es el de una torre de bloques que se inclina porque alguien empujó la parte superior. La base sigue en el mismo lugar, pero toda la torre se ve inclinada. Esa misma idea es la que se aplica en el sesgado dentro de un plano de graficación.
-## 2.2. Representación matricial de las transformaciones bidimensionales
+## 2.2. representación matricial de las transformaciones bidimensionales
 
 Las transformaciones bidimensionales no solo se describen con palabras, también se pueden expresar mediante matrices. Una matriz es una forma ordenada de números que permite aplicar operaciones matemáticas de manera más rápida y organizada. En graficación, las matrices son muy útiles porque permiten calcular de forma automática cómo cambia cada punto de una figura cuando se aplica una transformación.
 
@@ -184,7 +184,7 @@ El método invoke inicia el operador y muestra un mensaje en la consola:
 
 Registro y ejecución  
 Al final, el script registra el operador en Blender y lo ejecuta automáticamente. Así, al correr el script, ya puedes controlar el objeto "Stroke" con las flechas
-## 2.3. Trazo de líneas curvas
+## 2.3. trazo de líneas curvas
 
 El trazo de líneas curvas es una técnica fundamental en graficación porque permite representar formas más naturales y suaves que las líneas rectas. Mientras las rectas se usan para figuras geométricas simples, las curvas son necesarias para dibujar círculos, arcos, ondas y cualquier forma orgánica que aparezca en la vida real. Gracias a las curvas, los gráficos adquieren mayor realismo y expresividad.
 
