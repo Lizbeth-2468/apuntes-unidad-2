@@ -239,8 +239,9 @@ Las curvas B-spline se usan en diseño asistido por computadora (CAD), en animac
 
 **Ejemplo:**
 Imagina el trazado de una carretera que debe pasar cerca de varios pueblos. La curva no tiene que pasar exactamente por cada pueblo, pero sí debe acercarse a ellos siguiendo una trayectoria suave. Ese tipo de trazado se puede representar con una curva B-spline, que se adapta a los puntos de control sin perder continuidad.
-![referencia de persona corriendo](./images/corriendo.png)
-![Persona corriendo en blender](./images/corre.png)
+![Persona corriendo en Blender](./images/corre.png)
+![Referencia de persona corriendo](./images/corriendo.jpg)
+
 ## 2.4. Fractales
 Los fractales son figuras geométricas que se caracterizan por tener una estructura repetitiva a diferentes escalas. Esto significa que, si observamos un fractal de cerca o de lejos, veremos patrones similares que se repiten infinitamente. A esta propiedad se le llama autosimilitud.
 
