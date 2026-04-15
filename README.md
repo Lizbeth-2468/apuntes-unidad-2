@@ -19,7 +19,7 @@ apuntes de la unidad 2 graficacion
 
 
 
-## 2.1. transformación bidimensional
+## 2.1. Transformación bidimensional
 
 La transformación bidimensional es el conjunto de técnicas que permiten cambiar la posición, el tamaño o la orientación de una figura en un plano. Se usan para mover objetos, hacerlos más grandes o más pequeños, girarlos o darles una forma inclinada. Estas operaciones son muy importantes en la graficación porque nos ayudan a representar y manipular dibujos y datos de manera visual.
 
@@ -88,7 +88,7 @@ La rotación es muy útil en graficación porque permite mostrar objetos desde d
 
 **Ejemplo cotidiano:**
 Un ventilador es un buen ejemplo de rotación. Sus aspas giran alrededor de un eje central, manteniendo siempre la misma forma y tamaño, pero cambiando continuamente de orientación. Este mismo principio se aplica en graficación para dar la sensación de movimiento.
-### 2.1.4. sesgado
+### 2.1.4. Sesgado
 
 El sesgado es una transformación que se utiliza para inclinar una figura en el plano, como si la empujáramos hacia un lado sin mover toda la base. A diferencia de otras transformaciones, aquí la figura se deforma: lo que antes era un rectángulo perfectamente vertical puede convertirse en un paralelogramo inclinado. Es una manera de alterar la forma sin modificar el tamaño total.
 
@@ -97,7 +97,7 @@ Cuando se aplica en el eje horizontal, la parte superior de la figura se desplaz
 El sesgado tiene un papel importante en graficación porque permite simular efectos visuales que dan más realismo. Por ejemplo, se puede usar para representar la sombra de un objeto, para dar la sensación de que una figura está vista en perspectiva, o para crear animaciones en las que los objetos se deforman al moverse. Es una herramienta que aporta dinamismo y variedad a las escenas.
 
 Un caso cotidiano que ayuda a entenderlo es el de una torre de bloques que se inclina porque alguien empujó la parte superior. La base sigue en el mismo lugar, pero toda la torre se ve inclinada. Esa misma idea es la que se aplica en el sesgado dentro de un plano de graficación.
-## 2.2. representación matricial de las transformaciones bidimensionales
+## 2.2. Representación matricial de las transformaciones bidimensionales
 
 Las transformaciones bidimensionales no solo se describen con palabras, también se pueden expresar mediante matrices. Una matriz es una forma ordenada de números que permite aplicar operaciones matemáticas de manera más rápida y organizada. En graficación, las matrices son muy útiles porque permiten calcular de forma automática cómo cambia cada punto de una figura cuando se aplica una transformación.
 
@@ -185,7 +185,8 @@ El método invoke inicia el operador y muestra un mensaje en la consola:
 
 Registro y ejecución  
 Al final, el script registra el operador en Blender y lo ejecuta automáticamente. Así, al correr el script, ya puedes controlar el objeto "Stroke" con las flechas
-## 2.3. trazo de líneas curvas
+
+## 2.3. Trazo de líneas curvas
 
 El trazo de líneas curvas es una técnica fundamental en graficación porque permite representar formas más naturales y suaves que las líneas rectas. Mientras las rectas se usan para figuras geométricas simples, las curvas son necesarias para dibujar círculos, arcos, ondas y cualquier forma orgánica que aparezca en la vida real. Gracias a las curvas, los gráficos adquieren mayor realismo y expresividad.
 
@@ -202,7 +203,7 @@ El trazo de curvas se utiliza en diseño gráfico, animación, arquitectura y mo
 
 **Ejemplo:**
 Piensa en la forma de una ola del mar o en el contorno de una hoja. Ninguna de esas figuras puede representarse solo con rectas; necesitan curvas para mostrar su forma real. En graficación, el trazo de curvas permite reproducir esas formas de manera precisa y atractiva.
-### 2.3.1. Bézier
+### 2.3.1. Bezier
 
 Las curvas de Bézier son un tipo especial de línea curva que se utiliza mucho en graficación y diseño digital. Se caracterizan porque se construyen a partir de puntos de control que determinan la forma de la curva. Estos puntos no siempre están sobre la curva, pero influyen en la dirección y la inclinación que tendrá. Gracias a este método, se pueden crear curvas suaves y precisas con un control sencillo.
 
@@ -239,7 +240,6 @@ Imagina el trazado de una carretera que debe pasar cerca de varios pueblos. La c
 ![referencia de persona corriendo](./images/corriendo.png)
 ![Persona corriendo en blender](./images/corre.png)
 ## 2.5. Uso y creación de fuentes de texto
-
 En graficación, el manejo de fuentes de texto es tan importante como el trazo de líneas y figuras. El texto no solo transmite información, también forma parte del diseño visual y puede influir en la estética de una escena. Por eso, es necesario comprender cómo se utilizan las fuentes y cómo se pueden crear nuevas para adaptarse a diferentes necesidades.
 
 El **uso de fuentes** implica seleccionar un estilo tipográfico adecuado para el contexto. Cada fuente tiene características propias: algunas son más legibles, otras más decorativas, algunas transmiten formalidad y otras dinamismo. En aplicaciones gráficas y programas de diseño, se pueden cargar fuentes ya existentes en el sistema o importar tipografías externas para ampliar las opciones.
