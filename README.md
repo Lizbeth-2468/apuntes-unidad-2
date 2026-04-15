@@ -70,7 +70,7 @@ Imagina un cuadrado dibujado en el plano. Si aplicamos un escalamiento con un va
 
 **Importancia:**
 El escalamiento es muy útil en graficación porque permite ajustar el tamaño de los objetos dentro de una escena. Gracias a esta transformación se pueden crear efectos de zoom, representar figuras en diferentes escalas y construir animaciones en las que los objetos crecen o disminuyen de manera dinámica.
-### 2.1.3. Rotación
+### 2.1.3. Rotacion
 
 La rotación es una transformación que se utiliza para girar una figura alrededor de un punto fijo dentro del plano. Ese punto puede ser el origen de coordenadas o cualquier otro que se elija como centro de giro. Al aplicar una rotación, la figura conserva su forma y su tamaño, pero cambia la dirección en la que está orientada. Es como tomar una hoja con un dibujo y girarla sin modificar el dibujo en sí.
 
@@ -99,7 +99,7 @@ Cuando se aplica en el eje horizontal, la parte superior de la figura se desplaz
 El sesgado tiene un papel importante en graficación porque permite simular efectos visuales que dan más realismo. Por ejemplo, se puede usar para representar la sombra de un objeto, para dar la sensación de que una figura está vista en perspectiva, o para crear animaciones en las que los objetos se deforman al moverse. Es una herramienta que aporta dinamismo y variedad a las escenas.
 
 Un caso cotidiano que ayuda a entenderlo es el de una torre de bloques que se inclina porque alguien empujó la parte superior. La base sigue en el mismo lugar, pero toda la torre se ve inclinada. Esa misma idea es la que se aplica en el sesgado dentro de un plano de graficación.
-## 2.2. Representación matricial de las transformaciones bidimensionales
+## 2.2. Representacion matricial de las transformaciones bidimensionales
 
 Las transformaciones bidimensionales no solo se describen con palabras, también se pueden expresar mediante matrices. Una matriz es una forma ordenada de números que permite aplicar operaciones matemáticas de manera más rápida y organizada. En graficación, las matrices son muy útiles porque permiten calcular de forma automática cómo cambia cada punto de una figura cuando se aplica una transformación.
 
@@ -266,7 +266,7 @@ En ciencia, ayudan a modelar fenómenos naturales como el crecimiento de plantas
 
 Ejemplo sencillo:
 El conjunto de Mandelbrot es uno de los fractales más famosos. Se genera a partir de una fórmula matemática muy simple, pero al representarlo gráficamente produce una figura infinita llena de detalles y patrones que se repiten sin fin.
-## 2.5. Uso y creación de fuentes de texto
+## 2.5. Uso y creacion de fuentes de texto
 En graficación, el manejo de fuentes de texto es tan importante como el trazo de líneas y figuras. El texto no solo transmite información, también forma parte del diseño visual y puede influir en la estética de una escena. Por eso, es necesario comprender cómo se utilizan las fuentes y cómo se pueden crear nuevas para adaptarse a diferentes necesidades.
 
 El **uso de fuentes** implica seleccionar un estilo tipográfico adecuado para el contexto. Cada fuente tiene características propias: algunas son más legibles, otras más decorativas, algunas transmiten formalidad y otras dinamismo. En aplicaciones gráficas y programas de diseño, se pueden cargar fuentes ya existentes en el sistema o importar tipografías externas para ampliar las opciones.
