@@ -10,13 +10,11 @@ apuntes de la unidad 2 graficacion
   - [2.1.3. Rotación](#213-rotacion)
   - [2.1.4. Sesgado](#214-sesgado)
 - [2.2. Representación matricial de las transformaciones bidimensionales](#22-representacion-matricial-de-las-transformaciones-bidimensionales)
-  - *(se puede colocar el ejercicio de control con teclas de dirección)*
 - [2.3. Trazo de líneas curvas](#23-trazo-de-lineas-curvas)
   - [2.3.1. Bezier](#231-bezier)
   - [2.3.2. B-spline](#232-b-spline)
-  - *(colocar el ejercicio dibujo de la animacion)*
 - [2.4. Fractales](#24-fractales)
-- [2.5. Uso y creación de fuentes de texto](#25-uso-y-creacion-de-fuentes-de-texto)
+- [2.5. Uso y creación de fuentes de texto](#25-uso-y-creacion-de-fuentes-de-texto
 
 
 ##2.1. Transformación Bidimensional
