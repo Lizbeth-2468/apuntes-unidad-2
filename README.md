@@ -6,16 +6,17 @@ apuntes de la unidad 2 graficacion
 # 📑 Menú de contenidos
 
 - [2.1. Transformación bidimensional](#21-transformacion-bidimensional)
-  - [2.1.1. Traslación](#211-traslacion)
+  - [2.1.1. Traslacion](#211-traslacion)
   - [2.1.2. Escalamiento](#212-escalamiento)
-  - [2.1.3. Rotación](#213-rotacion)
+  - [2.1.3. Rotacion](#213-rotacion)
   - [2.1.4. Sesgado](#214-sesgado)
-- [2.2. Representación matricial de las transformaciones bidimensionales](#22-representacion-matricial-de-las-transformaciones-bidimensionales)
-- [2.3. Trazo de líneas curvas](#23-trazo-de-lineas-curvas)
+- [2.2. Representacion matricial de las transformaciones bidimensionales](#22-representacion-matricial-de-las-transformaciones-bidimensionales)
+- [2.3. Trazo de lineas curvas](#23-trazo-de-lineas-curvas)
   - [2.3.1. Bezier](#231-bezier)
   - [2.3.2. B-spline](#232-b-spline)
 - [2.4. Fractales](#24-fractales)
-- [2.5. Uso y creación de fuentes de texto](#25-uso-y-creacion-de-fuentes-de-texto)
+- [2.5. Uso y creacion de fuentes de texto](#25-uso-y-creacion-de-fuentes-de-texto)
+
 
 
 
@@ -34,7 +35,7 @@ Las transformaciones bidimensionales son la base de muchas aplicaciones gráfica
 
 **Ejemplo sencillo:**
 Imagina un triángulo en el plano. Si lo trasladas, se moverá a otra posición. Si lo escalas, se hará más grande o más pequeño. Si lo rotas, cambiará su orientación. Con estas operaciones simples se pueden construir escenas más complejas y dinámicas.
-### 2.1.1. Traslación
+### 2.1.1. Traslación 
 
 La traslación es una transformación bidimensional que consiste en mover una figura de un lugar a otro dentro del plano. Lo importante es que la figura no cambia su forma, su tamaño ni su orientación, simplemente se desplaza a una nueva posición. Cada punto de la figura se mueve la misma cantidad en la dirección que se indique.
 
