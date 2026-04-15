@@ -5,7 +5,7 @@ apuntes de la unidad 2 graficacion
 
 # 📑 Menú de contenidos
 
-- [2.1. Transformación bidimensional](#21-transformacion-bidimensional)
+- [2.1. Transformacion bidimensional](#21-transformacion-bidimensional)
   - [2.1.1. Traslacion](#211-traslacion)
   - [2.1.2. Escalamiento](#212-escalamiento)
   - [2.1.3. Rotacion](#213-rotacion)
@@ -16,6 +16,7 @@ apuntes de la unidad 2 graficacion
   - [2.3.2. B-spline](#232-b-spline)
 - [2.4. Fractales](#24-fractales)
 - [2.5. Uso y creacion de fuentes de texto](#25-uso-y-creacion-de-fuentes-de-texto)
+
 
 
 
